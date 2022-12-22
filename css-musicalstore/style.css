@@ -31,13 +31,14 @@ li a:hover
     background-color: #263159;
 }
 
-img {
+img 
+{
     width: 250px
 }
 
-h1, h2, h3, p, li {
+h1, h2, h3, p, li 
+{
     font-family: 'Unbounded', cursive;
-
 }
 
 
