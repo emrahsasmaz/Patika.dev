@@ -1,0 +1,43 @@
+body 
+{
+    background-color: #FFFBEB;
+}
+
+#nav-bar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #495579;
+    text-align: center;
+}
+
+.nav-button 
+{
+    display: inline-block;
+
+}
+
+li a 
+{
+    display: block;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+li a:hover
+{
+    background-color: #263159;
+}
+
+img {
+    width: 250px
+}
+
+h1, h2, h3, p, li {
+    font-family: 'Unbounded', cursive;
+
+}
+
+
