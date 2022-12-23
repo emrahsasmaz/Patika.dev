@@ -1,0 +1,122 @@
+body 
+{
+    padding: 0;
+    margin: 0;
+
+}
+
+img
+{
+
+    display: block;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+
+}
+
+.container
+{
+    display: block;
+    background-color: rgb(238,238,238);
+    margin-left: 6%;
+    margin-right: 6%;
+    height: 62px;
+
+}
+
+.search-bar
+{
+    display: block;
+    margin: auto;
+    margin-top: 0;
+
+}
+
+.btn-double
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+.first-box
+{
+    background-color: rgb(126,229,218);
+    float: left;
+    margin-left: 6%;
+    margin-top: 2px;
+    padding-bottom: 10px;
+    width: 36.5%;
+    text-align: center;
+
+}
+
+.first-box p 
+{
+    margin-bottom: 0;
+    margin-top: 10px;
+
+}
+
+.stanford-lx
+{
+    display: block;
+    text-align: center;
+    margin-top: 0;
+
+}
+
+.second-box
+{
+    background-color: rgb(112,204,194);
+    float: left;
+    margin-left: 2px;
+    margin-top: 2px;
+    padding: 3px;
+    padding-bottom: 7px;
+    width: 15%;
+    text-align: center;  
+
+}
+
+.second-box a 
+{
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    font-size: 13px;
+
+}
+
+.thirth-box
+{
+    background-color: rgb(98,179,170);
+    float: left;
+    margin-left: 2px;
+    margin-top: 2px;
+    padding-bottom: 1px;
+    width: 36%;
+    text-align: center;
+
+}
+
+.thirth-box p
+{
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+::placeholder
+{
+    color: black;
+
+}
+
+.footer
+{
+    text-align: center;
+    font-size: 13px;
+}
